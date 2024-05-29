@@ -1,0 +1,11 @@
+ID de Usuario: 1
+Nombre: Alicia
+Apellidos: Fernadez
+Edad: 34
+Teléfono: 777777777
+Sexo: Mujer
+Email: alicia@gmail.com
+Población: Valencia
+País: Alemania
+Usuario: Alicia
+Contraseña: 1234
