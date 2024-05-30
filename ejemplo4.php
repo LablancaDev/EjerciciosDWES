@@ -1,4 +1,4 @@
-<!-- Ejercicio 8. crear un Array con los días de la semana y mostrarlos. -->
+<!-- Ejercicio 8.  crear un Array con los días de la semana y mostrarlos. -->
 
 <?php
   //Se crea un array de strings con los días de la semana

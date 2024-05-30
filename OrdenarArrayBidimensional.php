@@ -1,5 +1,6 @@
 <?php
-    //Ejercicio apuntes clase 
+    //Ejercicio apuntes clase  
+    
         $empleados = array(
             array("Luis Sanz Olta",32,"Administración"),
             array("Pedro Mas Moreno",41,"Ventas"),

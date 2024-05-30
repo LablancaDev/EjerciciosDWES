@@ -1,4 +1,4 @@
-<!-- Ejercicio 6. Crear tres variables (texto, entero y decimal) y mostrar los resultados. -->
+<!-- Ejercicio 6.  Crear tres variables (texto, entero y decimal) y mostrar los resultados. -->
 
 <?php
 	$texto = "Hola"; //Se crea la variable texto que contiene el string Hola

@@ -1,4 +1,4 @@
-<!-- Ejercicio 14. Mostrar la versión del PHP y el Sistema. -->
+<!-- Ejercicio 14.  Mostrar la versión del PHP y el Sistema. -->
 
 
 <?php

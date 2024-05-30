@@ -1,4 +1,4 @@
-<!--Ejercicio 13. Crear una constante llamada Euro y asignarle el valor 166.386 Crear una variable 
+<!--Ejercicio 13.  Crear una constante llamada Euro y asignarle el valor 166.386 Crear una variable 
 llamada sueldo (en pesetas) y convertir en Euros.
 Crear una variable llamada gasto (en euros) y 
 convertir en Pesetas. -->
