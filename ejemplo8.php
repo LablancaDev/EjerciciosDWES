@@ -1,6 +1,7 @@
 <!-- Ejercicio 12. Crear una variable y nos devuelva si es entera , si es flotante, si 
 es decimal o si es de texto. -->
 
+
 <?php
     $numero = "Hola";//se declara la variable de tipo string
 
