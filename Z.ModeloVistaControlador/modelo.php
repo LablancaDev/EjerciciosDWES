@@ -1,4 +1,4 @@
-<!-- Archivo del Modelo: modelo.php -->
+<!-- Archivo Modelo: modelo.php -->
 
 <?php
 

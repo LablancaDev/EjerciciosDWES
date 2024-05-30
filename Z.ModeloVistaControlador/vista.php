@@ -1,4 +1,4 @@
-<!-- Archivo del vista: vista.php -->
+<!-- Archivo vista: vista.php -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
