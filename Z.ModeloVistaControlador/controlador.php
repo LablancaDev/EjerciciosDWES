@@ -1,4 +1,4 @@
-<!-- Archivo del Controlador: controlador.php -->
+<!-- Archivo Controlador: controlador.php -->
 
 <?php
 
