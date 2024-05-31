@@ -1,4 +1,4 @@
-<!-- Ejercicio 10.  Crear tres variables (texto, entero y decimal) y mostrar el tipo. -->
+<!-- Ejercicio 10.   Crear tres variables (texto, entero y decimal) y mostrar el tipo. -->
 
 <?php
     //Se declaran variables tipos string entero y decimal

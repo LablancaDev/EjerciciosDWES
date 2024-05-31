@@ -1,4 +1,4 @@
-<!-- Ejercicio 5.  Ejecutar el ejemplo del ejercicio anterior introduciendo en el 
+<!-- Ejercicio 5.   Ejecutar el ejemplo del ejercicio anterior introduciendo en el 
 navegador la URL:  http://localhost/ejemplo.php -->
 
 <?php

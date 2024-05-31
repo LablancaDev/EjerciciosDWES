@@ -1,4 +1,4 @@
-<!-- Ejercicio 7.  Mostrar la siguiente información:
+<!-- Ejercicio 7.   Mostrar la siguiente información:
     • Nombre del Servidor
     • Puerto
     • Software del Servidor

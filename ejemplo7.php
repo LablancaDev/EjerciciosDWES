@@ -1,4 +1,4 @@
-<!-- Ejercicio 11.  Crear una variable tipo texto y nos devuelve si tiene asociado un 
+<!-- Ejercicio 11.    Crear una variable tipo texto y nos devuelve si tiene asociado un 
 valor. Liberar la variable y volver a mostrar si tiene valor asignado. -->
 
 <?php
