@@ -1,4 +1,4 @@
-<!-- Ejercicio 4. Calcula la nota de un trimestre de la asignatura Programación. Un array almacenará las dos
+<!--  Ejercicio 4. Calcula la nota de un trimestre de la asignatura Programación. Un array almacenará las dos
  notas que ha sacado el alumno en los dos primeros controles. Si la media de los dos controles da un número
   mayor o igual a 5, el alumno está aprobado y se mostrará la media. -->
 

@@ -21,7 +21,7 @@
         </fieldset>
     </form>
 
-        <!-- 2 FORMAS DE CREAR LA TABLA  -->
+        <!--  2 FORMAS DE CREAR LA TABLA  -->
 
     <?php
         // FORMA 1 

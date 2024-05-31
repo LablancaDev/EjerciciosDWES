@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Formulario Post</title>
-    <!-- Ejercicio 7.- Crear un formulario que permita introducir el nombre, los apellidos, el sueldo y la edad de un empleado
+    <!-- Ejercicio  7.- Crear un formulario que permita introducir el nombre, los apellidos, el sueldo y la edad de un empleado
  y nos devuelva los datos del empleado y la retención que le aplicaremos al sueldo sabiendo que si tiene más de 30 años y 
  el sueldo superior a 25.000 € la retención es un 20% del sueldo y en caso contrario un 10% del sueldo. Calcular el sueldo final. -->
 </head>

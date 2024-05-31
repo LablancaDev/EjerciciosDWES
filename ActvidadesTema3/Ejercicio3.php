@@ -1,4 +1,4 @@
-<!-- Ejercicio 3. Dadas las edades y alturas de 5 alumnos introducidos en un array, mostrar la edad y la
+<!--  Ejercicio 3. Dadas las edades y alturas de 5 alumnos introducidos en un array, mostrar la edad y la
  estatura media, la cantidad de alumnos mayores de 18 años, y la cantidad de alumnos que miden más de 1.75. -->
 
 <?php

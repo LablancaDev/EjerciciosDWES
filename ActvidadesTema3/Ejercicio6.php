@@ -1,4 +1,4 @@
-<!-- Ejercicio 6.- Crear una función que calcule la capacidad de un disco. La capacidad se calcula multiplicando 
+<!--  Ejercicio 6.- Crear una función que calcule la capacidad de un disco. La capacidad se calcula multiplicando 
 Cilindros por Cabezas por Sectores por Tamaño de Sector. Si no se indica nada el tamaño del Sector es 512 bytes. -->
 <?php
     // se crea una función que contiene como parámetros los datos necesarios para calcular la capacidad de un disco

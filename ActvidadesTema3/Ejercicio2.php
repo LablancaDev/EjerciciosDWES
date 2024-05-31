@@ -1,4 +1,4 @@
-<!-- Ejercicio 2. Leer un array de números y mostrar si es positivo o negativo hasta que se encuentre un 0. -->
+<!--  Ejercicio 2. Leer un array de números y mostrar si es positivo o negativo hasta que se encuentre un 0. -->
 <?php
     
     $arrayNums = array(3,-2,5,-12,9,10,-1,0,-6,14);//se define arrayNums almacena números positivos y negativos     

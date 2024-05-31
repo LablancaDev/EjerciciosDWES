@@ -1,4 +1,4 @@
-<!-- Ejercicio 1. Programa que muestre por pantalla los 5 primeros números pares.  -->
+<!--  Ejercicio 1. Programa que muestre por pantalla los 5 primeros números pares.  -->
 <?php
      //mediante un bucle for se imprimen los números pares hasta el 5 que se filtran a través del condicional if
     for ($i=1; $i <=5 ; $i++) {
